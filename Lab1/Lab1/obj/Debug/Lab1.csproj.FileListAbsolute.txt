@@ -1,0 +1,7 @@
+D:\Faculta\An III\Semestru_1\PDAV\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Faculta\An III\Semestru_1\PDAV\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Faculta\An III\Semestru_1\PDAV\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Faculta\An III\Semestru_1\PDAV\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\Faculta\An III\Semestru_1\PDAV\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Faculta\An III\Semestru_1\PDAV\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Faculta\An III\Semestru_1\PDAV\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
